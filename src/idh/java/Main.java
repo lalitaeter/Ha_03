@@ -3,6 +3,6 @@ package idh.java;
 
 public class Main {
 	public static void main(String[] args) {
-    System.out.println("Ich packe in meinen Koffer ein Netzteil für mein Telefon und ein Aggregat.");
+    System.out.println("Ich packe in meinen Koffer ein Netzteil für mein Telefon und ein Aggregat und ein Erdbeermarmeladebrot mit Honig.");
 	};
 }
